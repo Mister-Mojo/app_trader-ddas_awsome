@@ -1,0 +1,53 @@
+Things we care about the most:
+
+Rating - App longevity
+
+Price - How much App Trader will pay for app rights
+
+Number of reviews
+
+Is it in both stores?
+
+
+
+Specific things to care about for more in-depth lists:
+
+Content rating
+
+Install count on play store (for play store apps)
+
+Getting insights on "size" and how it relates to other data points
+
+
+Questions we can answer:
+
+Make a SQL query for these questions - 
+
+Rating - How many apps are over 3 stars?
+
+Price - How many apps are free? Cost money? What's the avg cost of apps that require payment? Mode of cost for apps that need a payment?
+
+Number of reviews - How many reviews do we need? Is there a certain amount we require to even consider a recommendation?
+
+For play store - Whats the genre breakdown for the categories?
+
+
+
+Ask ourselves if - 
+
+Does it being in both stores actually matter? Why or why not? When should we consider this point?
+
+Does content rating matter? Do certain content ratings have more apps? Higher star rating? What types of apps are in these content ratings?
+
+Which content rating has the most free apps? Most paid apps? 
+
+On the play store, which content rating gets the most installs?
+
+Does install count affect review count? Do higher rated apps have more reviews? Do higher rated apps have more install count?
+
+
+
+
+
+
+
